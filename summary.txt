@@ -1,0 +1,15 @@
+JavaWeb online training: 300 * 25  =  7500
+Java livestore project : 1500 * 2  =  3000
+Java leetcoding serials: 1000 * 24 = 24000
+Total Java: 34500 lines code
+
+
+
+Others: php   :3000 lines
+	js+css:5000 lines
+	C     :6000 lines
+Other: 14000 lines
+
+Total Codes: 50000 lines
+
+
