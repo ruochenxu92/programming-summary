@@ -2,18 +2,14 @@ JavaWeb online training: 300 * 25  =  7500
 Java livestore project : 1500 * 2  =  3000
 Java CourseBased Project: 300 * 7  =  2100
 Java leetcoding serials: 1000 * 33 = 33000
-                    
-                         Total Java: 46000 lines code
-
-
-
+Java algorithm summary:  1000 * 15 = 15000
+                         Total Java: 61,000 lines code
 Others: PHP   :3000 lines
 	JS    :5000 lines
 	C     :6000 lines
-        Total:14000 lines
+        Total:14,000 lines
 
-Total Codes: 50000 lines
+Total Codes: 75,000 lines
 
+Year Code Summary: 75,000 lines;
 
-
-77% Java, 10% C, 8% JS, 5% PHP  
